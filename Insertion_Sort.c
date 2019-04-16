@@ -1,4 +1,4 @@
-#include <stdio,h>
+#include <stdio.h>
 
 void trace(int A[], int N) {
   int i;
